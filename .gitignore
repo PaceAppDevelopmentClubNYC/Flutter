@@ -1,0 +1,13 @@
+.DS_Store
+.dart_tool/
+.idea/
+.idea/*
+
+.packages
+.pub/
+
+build/
+
+android/key.properties
+
+.flutter-plugins
